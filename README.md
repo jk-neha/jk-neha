@@ -1,7 +1,9 @@
-<div align="center">
+<div align="center">🕊️🌷
 
 <!-- Animated header banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,25&height=200&section=header&text=Hey%2C%20I'm%20Neha!%20🌸&fontSize=52&fontAlignY=38&desc=Python%20Developer%20%7C%20AI%20%26%20ML%20Enthusiast&descAlignY=58&descSize=20&fontColor=ffffff" width="100%"/>
+
+<img width="1248" height="832" alt="edited causl pics" src="https://github.com/user-attachments/assets/ccf33f87-8a22-4234-b44d-ef0a64c2f588" />
+
 
 <!-- Typing animation -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F7A8C4&center=true&vCenter=true&width=600&lines=Python+%7C+FastAPI+%7C+AI+%2F+ML+%F0%9F%A4%96;Building+cool+things%2C+one+commit+at+a+time+%F0%9F%9A%80;Open+to+collaborations+%26+learning+%F0%9F%8C%B1;Fun+fact%3A+First+computer+built+by+a+woman+%F0%9F%8C%B7)](https://git.io/typing-svg)
@@ -12,7 +14,7 @@
 
 ## 🌼 About Me
 
-> *"The first computer was built by a woman 🌷👩‍💻 — and while computing may seem complex at first, as women, we have the power to decode and master it with logic, creativity, and persistence 💡✨"*
+> *"The first computer was built by a woman 🌷👩‍💻 — and while computing may seem complex at first, as women, we have the power to decode and master it with logic, creativity, and persistence 🌸✨"*
 
 Hi there! I'm **Neha Vardhini J K**, a fresher with internship experience on a mission to become a skilled **Python Developer**. I'm deeply passionate about **AI, Machine Learning**, and building real-world impactful software.
 
