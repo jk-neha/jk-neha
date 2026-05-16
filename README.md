@@ -1,5 +1,5 @@
-# 💫 About Me:
-I am currently seeking opportunities as a fresher with internship experience, actively working toward becoming a Python Developer. I am passionate about collaborating on Python, AI, and Machine Learning projects to strengthen both my practical knowledge and industry skills.<br><br>At present, I am learning Python, FastAPI, MySQL, PostgreSQL, along with Artificial Intelligence and Machine Learning concepts. I am looking forward to connecting with collaborators who can help me grow, improve my coding abilities, and gain real-world development experience 🚀<br><br>I am especially interested in understanding more about practical software development, project building, and real-time implementation of AI/ML solutions.<br><br>Fun fact: The first computer was built by a woman 👩‍💻—and while computing may seem complex at first, as women, we have the power to decode and master it with logic, creativity, and persistence 💡✨
+# 🌼 About Me:
+I am currently seeking opportunities as a fresher with internship experience, actively working toward becoming a Python Developer. I am passionate about collaborating on Python, AI, and Machine Learning projects to strengthen both my practical knowledge and industry skills.<br><br>At present, I am learning Python, FastAPI, MySQL, PostgreSQL, along with Artificial Intelligence and Machine Learning concepts. I am looking forward to connecting with collaborators who can help me grow, improve my coding abilities, and gain real-world development experience 🚀<br><br>I am especially interested in understanding more about practical software development, project building, and real-time implementation of AI/ML solutions.<br><br>Fun fact: The first computer was built by a woman 🌷👩‍💻—and while computing may seem complex at first, as women, we have the power to decode and master it with logic, creativity, and persistence 💡✨
 
 
 ## 🌐 Socials:
@@ -16,3 +16,4 @@ I am currently seeking opportunities as a fresher with internship experience, ac
 [![](https://komarev.com/ghpvc/?username=jk-neha&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+🌹🎀
