@@ -80,13 +80,7 @@ Hi there! I'm **Neha Vardhini J K**, a fresher with internship experience on a m
 
 ## 📊 GitHub Stats
 
-<div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=jk-neha&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=F7A8C4&icon_color=F7A8C4&text_color=c9d1d9" height="165"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jk-neha&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=F7A8C4&text_color=c9d1d9" height="165"/>
-
-</div>
 
 <div align="center">
 
