@@ -26,14 +26,22 @@ Hi there! I'm **Neha Vardhini J K**, a fresher with internship experience on a m
 
 ---
 
+## 🎓 Education
+
+| 🏛️ Degree | 🏫 Institution | 📅 Year | 🏆 Score |
+|:---|:---|:---:|:---:|
+| **M.Sc. Computer Science** | Loyola College, Chennai | 2024 – 2026 | CGPA: 9.35 |
+| **B.Sc. Computer Science** | Bhaktavatsalam Memorial College for Women, Chennai | 2021 – 2024 | CGPA: 8.4 |
+| **Higher & Secondary Schooling** | Nazareth Matriculation Higher Secondary School, Chennai | 2007 - 2021| CGPA: 8.5 |
+
+---
+
 ## 🌐 Connect With Me
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@Neha%20Vardhini%20J%20K)
 [![Pinterest](https://img.shields.io/badge/Pinterest-E60023?style=for-the-badge&logo=pinterest&logoColor=white)](https://pinterest.com)
-[![Mastodon](https://img.shields.io/badge/Mastodon-6364FF?style=for-the-badge&logo=mastodon&logoColor=white)](https://mastodon.social/@Neha%20Vardhini%20J%20K)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
 
 </div>
@@ -96,10 +104,10 @@ Hi there! I'm **Neha Vardhini J K**, a fresher with internship experience on a m
 
 | 🚀 Project | 📝 Description | 🛠️ Tech |
 |:---|:---|:---|
-| [📄 PDF Chatbot](https://github.com/jk-neha/PDF-CHATBOT) | Chat with your PDFs using AI | Python, AI |
-| [🌫️ PolluCast](https://github.com/jk-neha/PolluCast-Live-Air-Pollution-Predictor) | IoT-based real-time AQI prediction with health alerts | Python, IoT, Random Forest |
-| [⚡ Jujutsu Kaisen Page](https://github.com/jk-neha/ANIME-JUJUTSU-KAISEN-WEB-PAGE) | Elegant anime fan site built in pure HTML | HTML |
-| [👁️ Face Recognition Attendance](https://github.com/jk-neha/face-recognition-based-attendance-system-master) | Smart attendance using facial recognition | Python, ML |
+| [🤖 PDF Chatbot](https://github.com/jk-neha/PDF-CHATBOT) | Chat with your PDFs using AI | Python, AI |
+| [🌎 Pollucast Predictor]([https://github.com/jk-neha/PolluCast-Live-Air-Pollution-Predictor](https://github.com/jk-neha/air-pollution-predictor-with-real-time-health-alerts)) | IoT-based real-time AQI prediction with health alerts | Python, IoT, Random Forest |
+| [友 Jujutsu Kaisen Page](https://github.com/jk-neha/ANIME-JUJUTSU-KAISEN-WEB-PAGE) | Elegant anime fan site built in pure HTML | HTML |
+| [֎🇦🇮 Face Recognition Attendance](https://github.com/jk-neha/face-recognition-based-attendance-system-master) | Smart attendance using facial recognition | Python, ML |
 | [🛒 Fullstack Product App](https://github.com/jk-neha/fullstack-product-app) | Full-stack product management application | JavaScript |
 
 </div>
