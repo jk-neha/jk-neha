@@ -8,7 +8,7 @@
 
 
 <!-- Animated Header -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F7A8C4&center=true&vCenter=true&width=750&lines=Hi+there%2C+I'm+Neha+Vardhini+J+K+%F0%9F%8C%�;Python+%7C+FastAPI+%7C+AI+%2F+ML+%F0%9F%A4%96;Building+impactful+things%2C+one+commit+at+a+time+%F0%9F%9A%80;%22The+first+computer+was+built+by+a+woman%22+%F0%9F%8C%B7)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F7A8C4&center=true&vCenter=true&width=750&lines=Hi+there%2C+I%27m+Neha+Vardhini+J+K+%F0%9F%8C%B8;Python+%F0%9F%90%8D+%7C+FastAPI+%E2%9A%A1+%7C+AI+%2F+ML+%F0%9F%A7%A0;Building+impactful+things%2C+one+commit+at+a+time+%F0%9F%8C%B1;%22The+first+computer+was+built+by+a+woman%22+%F0%9F%8C%B7)](https://git.io/typing-svg)
 
 
 
