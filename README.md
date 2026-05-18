@@ -1,15 +1,16 @@
 <div align="center">
 
+
 <br/>
 
 <img width="100%" src="https://github.com/user-attachments/assets/ccf33f87-8a22-4234-b44d-ef0a64c2f588" alt="Neha Vardhini Banner" style="border-radius:16px"/>
 
 <br/>
 
+
+
 <!-- Animated Header -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F7A8C4&center=true&vCenter=true&width=750&lines=Hi+there%2C+I'm+Neha+Vardhini+J+K+%F0%9F%8C%�;Python+%7C+FastAPI+%7C+AI+%2F+ML+%F0%9F%A4%96;Building+impactful+things%2C+one+commit+at+a+time+%F0%9F%9A%80;%22The+first+computer+was+built+by+a+woman%22+%F0%9F%8C%B7)](https://git.io/typing-svg)
-
-
 
 <!-- Social Badges -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
@@ -128,7 +129,7 @@ class Neha:
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=jk-neha&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=6&title=Stars,Followers,Commits,Repositories,PullRequest,Issues"/>
+<img src="https://github-profile-trophy.vercel.app/?username=jk-neha&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=4"/>
 
 </div>
 
@@ -138,7 +139,7 @@ class Neha:
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=jk-neha&bg_color=0d1117&color=F7A8C4&line=F7A8C4&point=ffffff&area=true&area_color=F7A8C4&hide_border=true" width="100%"/>
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jk-neha&bg_color=0d1117&color=F7A8C4&line=F7A8C4&point=F7A8C4&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -153,8 +154,6 @@ class Neha:
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jk-neha/jk-neha/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/jk-neha/jk-neha/output/github-snake.svg" />
 </picture>
-
-> ⚠️ **Note:** The snake animation requires a one-time GitHub Actions setup — see the workflow file below!
 
 </div>
 
