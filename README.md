@@ -101,7 +101,7 @@ class Neha:
 |:---|:---|:---|:---:|
 | **🎭 FaceID Attendance** | Real-time face recognition system that detects, identifies, and logs attendance automatically | Python · OpenCV · KNN · Streamlit | [Live ↗](https://face-recognition-app-app-4voyybbgfuwxk7kadkp2rn.streamlit.app/) |
 | **🌎 PolluCast Predictor** | IoT-based real-time AQI prediction engine with live health alerts | Python · IoT · Random Forest · Streamlit | [Live ↗](https://pollucast-health-alerts-app-app-kquat4tx6batgpgyf5ubux.streamlit.app/) |
-| **🤖 PDF Chatbot** | Conversational AI that lets you chat with any PDF document using NLP | Python · NLP · AI | — |
+| **🤖 PDF Chatbot** | Conversational AI that lets you chat with any PDF document using NLP | Python · NLP · AI | [Live ↗](https://pdf-ai-assistance-bot-live.onrender.com/) |
 | **🛒 Fullstack Product App** | End-to-end product management system with CRUD operations and clean UI | JavaScript · Full-Stack | [Live ↗](https://fullstack-product-app-rust.vercel.app/) |
 
 
