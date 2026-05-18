@@ -1,13 +1,17 @@
 <div align="center">
 
-<img width="100%" src="https://github.com/user-attachments/assets/ccf33f87-8a22-4234-b44d-ef0a64c2f588" alt="Neha Vardhini Banner" style="border-radius:12px"/>
+<br/>
 
-<br/><br/>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F7A8C4&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Neha+Vardhini+J+K+%F0%9F%8C%B8;Python+%7C+FastAPI+%7C+AI+%2F+ML+%F0%9F%A4%96;Building+cool+things%2C+one+commit+at+a+time+%F0%9F%9A%80;Fun+fact%3A+The+first+computer+was+built+by+a+woman+%F0%9F%8C%B7)](https://git.io/typing-svg)
+<img width="100%" src="https://github.com/user-attachments/assets/ccf33f87-8a22-4234-b44d-ef0a64c2f588" alt="Neha Vardhini Banner" style="border-radius:16px"/>
 
 <br/>
 
+<!-- Animated Header -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F7A8C4&center=true&vCenter=true&width=750&lines=Hi+there%2C+I'm+Neha+Vardhini+J+K+%F0%9F%8C%�;Python+%7C+FastAPI+%7C+AI+%2F+ML+%F0%9F%A4%96;Building+impactful+things%2C+one+commit+at+a+time+%F0%9F%9A%80;%22The+first+computer+was+built+by+a+woman%22+%F0%9F%8C%B7)](https://git.io/typing-svg)
+
+
+
+<!-- Social Badges -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
 [![Pinterest](https://img.shields.io/badge/Pinterest-E60023?style=for-the-badge&logo=pinterest&logoColor=white)](https://pinterest.com)
@@ -21,7 +25,7 @@
 
 > *"The first computer was built by a woman 🌷 — and while computing may seem complex, we have the power to decode and master it with logic, creativity, and persistence ✨"*
 
-I'm **Neha Vardhini J K**, a fresher with internship experience on a mission to become a skilled **Python Developer**. I'm deeply passionate about **AI, Machine Learning**, and building real-world impactful software.
+I'm **Neha Vardhini J K**, a passionate fresher with internship experience on a mission to become a skilled **Python Developer**. I love building real-world, impactful software at the intersection of **AI, Machine Learning**, and clean backend engineering.
 
 ```python
 class Neha:
@@ -92,13 +96,13 @@ class Neha:
 
 <div align="center">
 
-| Project | Description | Tech Stack | Live |
+| 🗂️ Project | 📝 Description | 🛠️ Stack | 🔗 Demo |
 |:---|:---|:---|:---:|
-| [🔬 FaceID Attendance](https://github.com/jk-neha/face-recognition-streamlit-app) | Real-time face recognition attendance system with a cyber-dark UI. Detects, identifies & logs attendance automatically. | Python · OpenCV · KNN · Streamlit | [▶ Live](https://face-recognition-app-app-4voyybbgfuwxk7kadkp2rn.streamlit.app/) |
-| [🌫️ PolluCast Predictor](https://github.com/jk-neha/air-pollution-predictor-with-real-time-health-alerts) | IoT-based real-time AQI prediction engine with live health alerts | Python · IoT · Random Forest | — |
-| [🤖 PDF Chatbot](https://github.com/jk-neha/PDF-CHATBOT) | Conversational AI that lets you chat with any PDF document | Python · AI · NLP | — |
-| [🛒 Fullstack Product App](https://github.com/jk-neha/fullstack-product-app) | End-to-end product management application | JavaScript · Full-Stack | — |
-| [🗡️ Jujutsu Kaisen Page](https://github.com/jk-neha/ANIME-JUJUTSU-KAISEN-WEB-PAGE) | Elegant anime fan site built in pure HTML/CSS | HTML · CSS | — |
+| **🎭 FaceID Attendance** | Real-time face recognition system that detects, identifies, and logs attendance automatically | Python · OpenCV · KNN · Streamlit | [Live ↗](https://face-recognition-app-app-4voyybbgfuwxk7kadkp2rn.streamlit.app/) |
+| **🌫️ PolluCast Predictor** | IoT-based real-time AQI prediction engine with live health alerts | Python · IoT · Random Forest · Streamlit | [Live ↗](https://pollucast-health-alerts-app-app-kquat4tx6batgpgyf5ubux.streamlit.app/) |
+| **🤖 PDF Chatbot** | Conversational AI that lets you chat with any PDF document using NLP | Python · NLP · AI | — |
+| **🛒 Fullstack Product App** | End-to-end product management system with CRUD operations and clean UI | JavaScript · Full-Stack | — |
+| **⚡ Jujutsu Kaisen Page** | Elegant anime fan site crafted in pure HTML/CSS | HTML · CSS | — |
 
 </div>
 
@@ -108,13 +112,13 @@ class Neha:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=jk-neha&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=F7A8C4&icon_color=F7A8C4&text_color=c9d1d9" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api?username=jk-neha&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=F7A8C4&icon_color=F7A8C4&text_color=c9d1d9&count_private=true&include_all_commits=true&rank_icon=github" height="170"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jk-neha&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=F7A8C4&text_color=c9d1d9" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jk-neha&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=F7A8C4&text_color=c9d1d9&langs_count=8&cache_seconds=1800" height="170"/>
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=jk-neha&theme=tokyonight&hide_border=true&background=0d1117&ring=F7A8C4&fire=F7A8C4&currStreakLabel=F7A8C4" height="160"/>
+<img src="https://streak-stats.demolab.com?user=jk-neha&theme=tokyonight&hide_border=true&background=0d1117&ring=F7A8C4&fire=F7A8C4&currStreakLabel=F7A8C4&sideLabels=c9d1d9&dates=c9d1d9" height="170"/>
 
 </div>
 
@@ -124,7 +128,7 @@ class Neha:
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=jk-neha&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=6"/>
+<img src="https://github-profile-trophy.vercel.app/?username=jk-neha&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=6&title=Stars,Followers,Commits,Repositories,PullRequest,Issues"/>
 
 </div>
 
@@ -134,7 +138,23 @@ class Neha:
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=jk-neha&bg_color=0d1117&color=F7A8C4&line=F7A8C4&point=ffffff&area=true&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jk-neha&bg_color=0d1117&color=F7A8C4&line=F7A8C4&point=ffffff&area=true&area_color=F7A8C4&hide_border=true" width="100%"/>
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jk-neha/jk-neha/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jk-neha/jk-neha/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/jk-neha/jk-neha/output/github-snake.svg" />
+</picture>
+
+> ⚠️ **Note:** The snake animation requires a one-time GitHub Actions setup — see the workflow file below!
 
 </div>
 
@@ -142,10 +162,8 @@ class Neha:
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,25&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,25&height=120&section=footer&text=Let's+build+something+amazing!&fontSize=24&fontColor=F7A8C4&animation=fadeIn" width="100%"/>
 
-**🌸 Thanks for visiting — let's build something amazing together! 🚀**
-
-*Open to collaborations, internships & opportunities in Python · AI · ML*
+**🌸 Thanks for stopping by — open to collaborations, internships & opportunities in Python · AI · ML 🚀**
 
 </div>
