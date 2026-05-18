@@ -113,12 +113,6 @@ class Neha:
 
 <div align="center">
 
-<!-- Stats Card — hosted on render.com, not vercel -->
-<img src="https://github-stats-alpha.vercel.app/api?username=jk-neha&cc=0d1117&tc=F7A8C4&ic=F7A8C4&bc=0d1117" height="170"/>
-&nbsp;&nbsp;
-<!-- Top Languages — using stats.hyprland.org as backup -->
-<img src="https://gh-stats-tau.vercel.app/api/top-langs?username=jk-neha&layout=compact&bg_color=0d1117&title_color=F7A8C4&text_color=c9d1d9&hide_border=true&langs_count=8" height="170"/>
-
 <br/><br/>
 
 <!-- Streak stats — demolab is independent and working -->
@@ -148,7 +142,7 @@ class Neha:
 
 </div>
 
----
+
 
 ## 🐍 Contribution Snake
 
