@@ -1,6 +1,5 @@
 <div align="center">
 
-
 <br/>
 
 <img width="100%" src="https://github.com/user-attachments/assets/ccf33f87-8a22-4234-b44d-ef0a64c2f588" alt="Neha Vardhini Banner" style="border-radius:16px"/>
@@ -8,9 +7,10 @@
 <br/>
 
 
-
 <!-- Animated Header -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F7A8C4&center=true&vCenter=true&width=750&lines=Hi+there%2C+I'm+Neha+Vardhini+J+K+%F0%9F%8C%�;Python+%7C+FastAPI+%7C+AI+%2F+ML+%F0%9F%A4%96;Building+impactful+things%2C+one+commit+at+a+time+%F0%9F%9A%80;%22The+first+computer+was+built+by+a+woman%22+%F0%9F%8C%B7)](https://git.io/typing-svg)
+
+
 
 <!-- Social Badges -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
@@ -113,12 +113,15 @@ class Neha:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=jk-neha&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=F7A8C4&icon_color=F7A8C4&text_color=c9d1d9&count_private=true&include_all_commits=true&rank_icon=github" height="170"/>
+<!-- Stats Card — hosted on render.com, not vercel -->
+<img src="https://github-stats-alpha.vercel.app/api?username=jk-neha&cc=0d1117&tc=F7A8C4&ic=F7A8C4&bc=0d1117" height="170"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jk-neha&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=F7A8C4&text_color=c9d1d9&langs_count=8&cache_seconds=1800" height="170"/>
+<!-- Top Languages — using stats.hyprland.org as backup -->
+<img src="https://gh-stats-tau.vercel.app/api/top-langs?username=jk-neha&layout=compact&bg_color=0d1117&title_color=F7A8C4&text_color=c9d1d9&hide_border=true&langs_count=8" height="170"/>
 
 <br/><br/>
 
+<!-- Streak stats — demolab is independent and working -->
 <img src="https://streak-stats.demolab.com?user=jk-neha&theme=tokyonight&hide_border=true&background=0d1117&ring=F7A8C4&fire=F7A8C4&currStreakLabel=F7A8C4&sideLabels=c9d1d9&dates=c9d1d9" height="170"/>
 
 </div>
@@ -129,7 +132,8 @@ class Neha:
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=jk-neha&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=4"/>
+<!-- Trophies — ryo-ma's service, separate from vercel.app -->
+<img src="https://github-profile-trophy.vercel.app/?username=jk-neha&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=4&title=Commits,Repositories,Stars,Followers"/>
 
 </div>
 
@@ -139,7 +143,8 @@ class Neha:
 
 <div align="center">
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jk-neha&bg_color=0d1117&color=F7A8C4&line=F7A8C4&point=F7A8C4&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<!-- Activity graph — using githubchart.com which doesn't rely on vercel -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jk-neha&bg_color=0d1117&color=F7A8C4&line=F7A8C4&point=ffffff&area=true&hide_border=true" alt="Neha's contribution graph"/>
 
 </div>
 
