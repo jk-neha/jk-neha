@@ -29,7 +29,7 @@ I'm **Neha Vardhini J K**, a passionate fresher with internship experience on a 
 
 ```python
 class Neha:
-    role        = "Python Developer (Fresher) | M.Sc. CS Student · CGPA 9.35"
+    role        = "Python Developer (Fresher) | M.Sc. CS Student "
     location    = "Chennai, India 🇮🇳"
     education   = "Loyola College Chennai  ·  CGPA 9.35"
     currently   = ["AI/ML Projects", "FastAPI", "Full-Stack Python"]
