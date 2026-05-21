@@ -13,9 +13,8 @@
 
 
 <!-- Social Badges -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=whit)](https://linkedin.com/in/nehavardhinijk)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
-[![Pinterest](https://img.shields.io/badge/Pinterest-E60023?style=for-the-badge&logo=pinterest&logoColor=white)](https://pinterest.com)
 [![Profile Views](https://komarev.com/ghpvc/?username=jk-neha&color=F7A8C4&style=for-the-badge&label=Profile+Views)](https://github.com/jk-neha)
 
 </div>
