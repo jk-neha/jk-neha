@@ -8,9 +8,11 @@
 
 
 <!-- Animated Header -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F7A8C4&center=true&vCenter=true&width=750&lines=Hi+there%2C+I%27m+Neha+Vardhini+J+K+%F0%9F%8C%B8;Python+%F0%9F%90%8D+%7C+FastAPI+%E2%9A%A1+%7C+AI+%2F+ML+%F0%9F%A7%A0;Building+impactful+things%2C+one+commit+at+a+time+%F0%9F%8C%B1;%22The+first+computer+was+built+by+a+woman%22+%F0%9F%8C%B7)](https://git.io/typing-svg)
+<div align="center">
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=100&size=18&pause=1013&color=F78BD5&width=438&lines=Hi+there%2C+I'm+Neha+Vardhini+J+K+%F0%9F%8C%B7;Python+%F0%9F%90%8D%7CFastAPI+%E2%9A%A1%7CRESTfulAPI+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB%7CSQL+%F0%9F%92%BE;Building+impactful+things%2Cone+commit+at+a+time+%F0%9F%91%A9%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;%22+%F0%9F%95%8A%EF%B8%8F+Until+then+~~+let's+become+better+%F0%9F%8C%BC+%22)](https://git.io/typing-svg)
 
+</div>
 
 <!-- Social Badges -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=whit)](https://linkedin.com/in/nehavardhinijk)
@@ -25,17 +27,17 @@
 
 > *"The first computer was built by a woman 🌷 — and while computing may seem complex, we have the power to decode and master it with logic, creativity, and persistence ✨"*
 
-I'm **Neha Vardhini J K**, a passionate fresher with internship experience on a mission to become a skilled **Python Developer**. I love building real-world, impactful software at the intersection of **AI, Machine Learning**, and clean backend engineering.
+I'm **Neha Vardhini J K**, a passionate fresher with internship experience, focused on becoming a strong **Backend / Python Developer**. I enjoy designing clean, well-structured APIs and building real-world systems with **FastAPI, PostgreSQL, and RESTful architecture** — and I love exploring AI/ML on the side to keep growing as a developer
 
-```python
+​```python
 class Neha:
-    role        = "Python Developer (Fresher) | M.Sc. CS Graduate "
+    role        = "Backend Developer (Fresher) | Python & FastAPI | M.Sc. CS Graduate"
     location    = "Chennai, India 🇮🇳"
-    education   = "Loyola College Chennai  ·  CGPA 9.35"
-    currently   = ["AI/ML Projects", "FastAPI", "Full-Stack Python"]
-    learning    = ["PostgreSQL", "Deep Learning", "System Design"]
+    education   = "Loyola College Chennai · CGPA 9.35"
+    core_stack  = ["FastAPI", "PostgreSQL", "RESTful APIs", "SQL", "JWT Auth"]
+    exploring   = ["AI/ML", "Deep Learning", "System Design"]
     fun_fact    = "Women and tech are a match made in heaven 🌸💻"
-```
+​```
 
 ---
 
@@ -98,12 +100,11 @@ class Neha:
 
 | 🗂️ Project | 📝 Description | 🛠️ Stack | 🔗 Demo |
 |:---|:---|:---|:---:|
-| **🎭 FaceID Attendance** | Real-time face recognition system that detects, identifies, and logs attendance automatically | Python · OpenCV · KNN · Streamlit | [Live ↗](https://face-recognition-app-app-4voyybbgfuwxk7kadkp2rn.streamlit.app/) |
-| **🌎 PolluCast Predictor** | IoT-based real-time AQI prediction engine with live health alerts | Python · IoT · Random Forest · Streamlit | [Live ↗](https://pollucast-health-alerts-app-app-kquat4tx6batgpgyf5ubux.streamlit.app/) |
-| **🤖 PDF Chatbot** | Conversational AI that lets you chat with any PDF document using NLP | Python · NLP · AI | [Live ↗](https://pdf-ai-assistance-bot-live.onrender.com/) |
-| **🛒 Fullstack Product App** | End-to-end product management system with CRUD operations and clean UI | Python · FastAPI · PostgreSQL · API Development · UI(Claude) · | [Live ↗](https://fullstack-product-app-rust.vercel.app/) |
-| **🎓 Campus Placement System** | Connects students, companies, and placement administrators with secure authentication, job management, eligibility checking, application tracking, and placement analytics. | Python · FastAPI · PostgreSQL · RESTful API Design · UI(Claude) · JWT Authentication  | [Live ↗](https://campus-placements-intelligence-syst.vercel.app/) |
-
+| **🎓 Campus Placement System** | End-to-end platform connecting students, companies & admins — secure auth, job management, eligibility checks, application tracking, and analytics | Python · FastAPI · PostgreSQL · REST API · JWT | [Live ↗](https://campus-placements-intelligence-syst.vercel.app/) |
+| **🛒 Fullstack Product App** | Product management system with full CRUD, clean API design and UI | Python · FastAPI · PostgreSQL · REST API | [Live ↗](https://fullstack-product-app-rust.vercel.app/) |
+| **🤖 PDF Chatbot** | Explored conversational AI — chat with any PDF using NLP techniques | Python · NLP | [Live ↗](https://pdf-ai-assistance-bot-live.onrender.com/) |
+| **🎭 FaceID Attendance** | Explored computer vision — real-time face detection & attendance logging | Python · OpenCV · KNN · Streamlit | [Live ↗](https://face-recognition-app-app-4voyybbgfuwxk7kadkp2rn.streamlit.app/) |
+| **🌎 PolluCast Predictor** | Explored applied ML — IoT-based AQI prediction with health alerts | Python · IoT · Random Forest · Streamlit | [Live ↗](https://pollucast-health-alerts-app-app-kquat4tx6batgpgyf5ubux.streamlit.app/) |
 
 
 </div>
@@ -118,17 +119,6 @@ class Neha:
 
 <!-- Streak stats — demolab is independent and working -->
 <img src="https://streak-stats.demolab.com?user=jk-neha&theme=tokyonight&hide_border=true&background=0d1117&ring=F7A8C4&fire=F7A8C4&currStreakLabel=F7A8C4&sideLabels=c9d1d9&dates=c9d1d9" height="170"/>
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<!-- Trophies — ryo-ma's service, separate from vercel.app -->
-<img src="https://github-profile-trophy.vercel.app/?username=jk-neha&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=4&title=Commits,Repositories,Stars,Followers"/>
 
 </div>
 
@@ -163,6 +153,6 @@ class Neha:
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,25&height=120&section=footer&text=Let's+build+something+amazing!&fontSize=24&fontColor=F7A8C4&animation=fadeIn" width="100%"/>
 
-**🌸 Thanks for stopping by — open to collaborations, internships & opportunities in Python · AI · ML 🚀**
+**🌸 Thanks for stopping by — open to collaborations, internships & opportunities in Backend Development · Python · APIs🚀**
 
 </div>
