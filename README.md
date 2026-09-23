@@ -10,7 +10,7 @@
 <!-- Animated Header -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=100&size=18&pause=1013&color=F78BD5&width=438&lines=Hi+there%2C+I'm+Neha+Vardhini+J+K+%F0%9F%8C%B7;Python+%F0%9F%90%8D%7CFastAPI+%E2%9A%A1%7CRESTfulAPI+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB%7CSQL+%F0%9F%92%BE;Building+impactful+things%2Cone+commit+at+a+time+%F0%9F%91%A9%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;%22+%F0%9F%95%8A%EF%B8%8F+Until+then+~~+let's+become+better+%F0%9F%8C%BC+%22)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=EC75F7&center=true&width=600&lines=Hi+there%2C+I'm+Neha+Vardhini+J+K;Backend+Developer;Python%7CFastAPI%7CDjango%7CC%23%2F.NET%7CPostgreSQL;6+lively+deployed+projects)](https://git.io/typing-svg)
 
 </div>
 
@@ -25,29 +25,44 @@
 
 ## 🌸 About Me
 
-> *"The first computer was built by a woman 🌷 — and while computing may seem complex, we have the power to decode and master it with logic, creativity, and persistence ✨"*
-
 I'm **Neha Vardhini J K**, a passionate fresher with internship experience, focused on becoming a strong **Backend / Python Developer**. I enjoy designing clean, well-structured APIs and building real-world systems with **FastAPI, PostgreSQL, and RESTful architecture** — and I love exploring AI/ML on the side to keep growing as a developer
 
+```python
 ​```python
 class Neha:
-    role        = "Backend Developer (Fresher) | Python & FastAPI | M.Sc. CS Graduate"
-    location    = "Chennai, India 🇮🇳"
-    education   = "Loyola College Chennai · CGPA 9.35"
-    core_stack  = ["FastAPI", "PostgreSQL", "RESTful APIs", "SQL", "JWT Auth"]
-    exploring   = ["AI/ML", "Deep Learning", "System Design"]
-    fun_fact    = "Women and tech are a match made in heaven 🌸💻"
-​```
+    def __init__(self):
+        self.name = "Neha Vardhini J K"
+        self.role = "Backend Developer (Fresher)"
+        self.location = "Chennai, India 🇮🇳"
+        self.education = "M.Sc. Computer Science · Loyola College · CGPA 9.35"
+
+        self.core_stack = [
+            "Python",
+            "FastAPI",
+            "Django REST Framework",
+            "PostgreSQL",
+            "RESTful APIs",
+            "SQL",
+            "JWT Authentication"
+        ]
+
+        self.exploring = [
+            "AI/ML",
+            "Deep Learning",
+            "System Design"
+        ]
+
+```
 
 ---
 
 ## 🎓 Education
 
-| Degree | Institution | Year | Score |
-|:---|:---|:---:|:---:|
-| **M.Sc. Computer Science** | Loyola College, Chennai | 2024 – 2026 | CGPA: **9.35** |
-| **B.Sc. Computer Science** | Bhaktavatsalam Memorial College for Women, Chennai | 2021 – 2024 | CGPA: **8.4** |
-| **HSC / SSLC** | Nazareth Matriculation Hr. Sec. School, Chennai | 2007 – 2021 | CGPA: **8.5** |
+| Degree | Institution | Start-Year | End-Year | Score |
+|:---|:---|:---:|:---:|:---:|
+| **M.Sc. Computer Science** | Loyola College, Chennai | 2024 | 2026 | CGPA: **9.35** |
+| **B.Sc. Computer Science** | Bhaktavatsalam Memorial College for Women, Chennai | 2021 | 2024 | CGPA: **8.4** |
+| **Schooling** | Nazareth Matriculation Hr. Sec. School, Chennai | 2007 |2021 | XII-CGPA: **8.5** |
 
 ---
 
@@ -57,38 +72,39 @@ class Neha:
 
 **Languages**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge\&logo=c-sharp\&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
 
 **Frameworks & Libraries**
 
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge\&logo=fastapi\&logoColor=white)
+![Django REST Framework](https://img.shields.io/badge/Django_REST_Framework-092E20?style=for-the-badge\&logo=django\&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge\&logo=streamlit\&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge\&logo=dotnet\&logoColor=white)
+![PyPDF2](https://img.shields.io/badge/PyPDF2-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge\&logo=opencv\&logoColor=white)
 
 **Databases & Cloud**
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
-![Streamlit Cloud](https://img.shields.io/badge/Streamlit_Cloud-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+![Neon](https://img.shields.io/badge/Neon-00E699?style=for-the-badge\&logo=postgresql\&logoColor=black)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge\&logo=vercel\&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge\&logo=render\&logoColor=black)
+![Streamlit Cloud](https://img.shields.io/badge/Streamlit_Cloud-FF4B4B?style=for-the-badge\&logo=streamlit\&logoColor=white)
 
 **Tools & Platforms**
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![Azure Repos](https://img.shields.io/badge/Azure_Repos-0078D4?style=for-the-badge\&logo=azuredevops\&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge\&logo=jupyter\&logoColor=white)
 
 </div>
 
@@ -100,12 +116,12 @@ class Neha:
 
 | 🗂️ Project | 📝 Description | 🛠️ Stack | 🔗 Demo |
 |:---|:---|:---|:---:|
+| **🎓 CareBridge AI Assisted HealthCare Platform** | Full-stack healthcare platform connecting patients, doctors & pharmacies through role-based dashboards — from appointment booking and prescriptions to pharmacy fulfillment, with Gemini-powered symptom checking | Python · Django REST Framework · PostgreSQL · JWT · Google Gemini |[Live ↗](https://care-bridge-ai-assisted-healthcare.vercel.app/) |
 | **🎓 Campus Placement System** | End-to-end platform connecting students, companies & admins — secure auth, job management, eligibility checks, application tracking, and analytics | Python · FastAPI · PostgreSQL · REST API · JWT | [Live ↗](https://campus-placements-intelligence-syst.vercel.app/) |
 | **🛒 Fullstack Product App** | Product management system with full CRUD, clean API design and UI | Python · FastAPI · PostgreSQL · REST API | [Live ↗](https://fullstack-product-app-rust.vercel.app/) |
-| **🤖 PDF Chatbot** | Explored conversational AI — chat with any PDF using NLP techniques | Python · NLP | [Live ↗](https://pdf-ai-assistance-bot-live.onrender.com/) |
+| **🤖 PDF Chatbot** | Conversational PDF assistant that extracts text from uploaded PDFs using PyPDF2 and sends the extracted content with the user's prompt or selected feature to LLaMA 3.1 through the Groq API for response generation | Python · Streamlit · PyPDF2 · Groq API · LLaMA 3.1 | [Live ↗](https://pdf-ai-assistance-bot-live.onrender.com/) |
 | **🎭 FaceID Attendance** | Explored computer vision — real-time face detection & attendance logging | Python · OpenCV · KNN · Streamlit | [Live ↗](https://face-recognition-app-app-4voyybbgfuwxk7kadkp2rn.streamlit.app/) |
 | **🌎 PolluCast Predictor** | Explored applied ML — IoT-based AQI prediction with health alerts | Python · IoT · Random Forest · Streamlit | [Live ↗](https://pollucast-health-alerts-app-app-kquat4tx6batgpgyf5ubux.streamlit.app/) |
-
 
 </div>
 
@@ -123,17 +139,6 @@ class Neha:
 </div>
 
 ---
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-<!-- Activity graph — using githubchart.com which doesn't rely on vercel -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=jk-neha&bg_color=0d1117&color=F7A8C4&line=F7A8C4&point=ffffff&area=true&hide_border=true" alt="Neha's contribution graph"/>
-
-</div>
-
-
 
 ## 🐍 Contribution Snake
 
