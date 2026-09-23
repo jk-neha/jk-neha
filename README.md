@@ -116,7 +116,7 @@ class Neha:
 
 | 🗂️ Project | 📝 Description | 🛠️ Stack | 🔗 Demo |
 |:---|:---|:---|:---:|
-| **🎓 CareBridge AI Assisted HealthCare Platform** | Full-stack healthcare platform connecting patients, doctors & pharmacies through role-based dashboards — from appointment booking and prescriptions to pharmacy fulfillment, with Gemini-powered symptom checking | Python · Django REST Framework · PostgreSQL · JWT · Google Gemini |[Live ↗](https://care-bridge-ai-assisted-healthcare.vercel.app/) |
+| **🏥 CareBridge AI Assisted HealthCare Platform** | Full-stack healthcare platform connecting patients, doctors & pharmacies through role-based dashboards — from appointment booking and prescriptions to pharmacy fulfillment, with Gemini-powered symptom checking | Python · Django REST Framework · PostgreSQL · JWT · Google Gemini |[Live ↗](https://care-bridge-ai-assisted-healthcare.vercel.app/) |
 | **🎓 Campus Placement System** | End-to-end platform connecting students, companies & admins — secure auth, job management, eligibility checks, application tracking, and analytics | Python · FastAPI · PostgreSQL · REST API · JWT | [Live ↗](https://campus-placements-intelligence-syst.vercel.app/) |
 | **🛒 Fullstack Product App** | Product management system with full CRUD, clean API design and UI | Python · FastAPI · PostgreSQL · REST API | [Live ↗](https://fullstack-product-app-rust.vercel.app/) |
 | **🤖 PDF Chatbot** | Conversational PDF assistant that extracts text from uploaded PDFs using PyPDF2 and sends the extracted content with the user's prompt or selected feature to LLaMA 3.1 through the Groq API for response generation | Python · Streamlit · PyPDF2 · Groq API · LLaMA 3.1 | [Live ↗](https://pdf-ai-assistance-bot-live.onrender.com/) |
